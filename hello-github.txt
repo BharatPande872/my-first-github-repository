@@ -1,2 +1,2 @@
-Hellow Git...!
+Hello Git...!
 How was the flow of git?
